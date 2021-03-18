@@ -1,6 +1,18 @@
 {
   "name": "stripe-payment-modal-vue-example",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "author": "FunnelKake LLC",
+  "description": "Vue Stripe Payment Modal demo app",
+  "keywords": [
+    "vue",
+    "stripe",
+    "modals",
+    "stripe-checkout",
+    "stripe-popup-vue",
+    "stripe-checkout-vue",
+    "stripe-checkout-modal"
+  ],
+  "license": "MIT",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
